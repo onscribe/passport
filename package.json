@@ -1,0 +1,20 @@
+{
+	"name": "passport-onscribe",
+	"description": "A node module to authenticate with Onscribe using passport.js",
+	"version": "0.0.1",
+	"author": "kdi",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
+	],
+	"homepage": "http://onscri.be", 
+	"keywords": ["onscribe", "passport", "api", "json"],
+	"repository": {
+	"type": "git",
+		"url": "git://github.com/onscribe/passport-onscribe.git"
+	},
+	"engines": { "node": "0.8.x" }, 
+	"main": "index",
+	"bin": { },
+	"dependencies": {
+	}
+}
