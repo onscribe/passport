@@ -1,20 +1,29 @@
 {
 	"name": "passport-onscribe",
-	"description": "A node module to authenticate with Onscribe using passport.js",
 	"version": "0.0.1",
+	"description": "A node module to authenticate with Onscribe using passport.js",
+	"keywords": ["onscribe", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
 	],
-	"homepage": "http://onscri.be", 
-	"keywords": ["onscribe", "passport", "api", "json"],
+	"homepage": "http://onscri.be",
 	"repository": {
-	"type": "git",
+		"type": "git",
 		"url": "git://github.com/onscribe/passport-onscribe.git"
 	},
-	"engines": { "node": "0.8.x" }, 
+	"bugs": {
+		"url": "http://github.com/onscribe/passport-onscribe/issues"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "http://www.makesites.org/licenses/MIT"
+	}],
+	"engines": { "node": ">=0.8.x" },
 	"main": "index",
 	"bin": { },
 	"dependencies": {
+		"pkginfo": "0.2.x",
+		"passport-oauth": "0.1.*"
 	}
 }
