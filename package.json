@@ -1,6 +1,6 @@
 {
 	"name": "passport-onscribe",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "A node module to authenticate with Onscribe using passport.js",
 	"keywords": ["onscribe", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"author": "kdi",
