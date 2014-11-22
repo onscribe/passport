@@ -1,4 +1,4 @@
-# Onscribe for Passport.js
+# Passport.js authentication for Onscribe
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Onscribe](https://onscri.be/) using the OAuth 2.0 API.
 
