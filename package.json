@@ -10,10 +10,10 @@
 	"homepage": "http://onscri.be",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/onscribe/passport-onscribe.git"
+		"url": "git://github.com/onscribe/passport.git"
 	},
 	"bugs": {
-		"url": "http://github.com/onscribe/passport-onscribe/issues"
+		"url": "http://github.com/onscribe/passport/issues"
 	},
 	"licenses": [{
 		"type": "MIT",
